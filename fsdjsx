@@ -1,0 +1,20 @@
+const f1 = () => {
+    console.log("F1");
+};
+const f2 = () => {
+    console.log("F2");
+};
+const f3 = () => {
+    console.log("F3");
+};
+const main = () => {
+    console.log("Main Function");
+   // f1();
+    setTimeout(f1, 0);  // 1000->1sec
+    // setInterval(f2,500);
+    setImmediate(f2);
+    
+    f3();
+    console.log("End");
+};
+main();
