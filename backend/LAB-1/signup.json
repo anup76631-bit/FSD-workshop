@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "secret123",
+    "age": 22
+  },
+  {
+    "id": 2,
+    "name": "Anup",
+    "email": "anup123@gmail.com",
+    "password": "654654545",
+    "age": "544"
+  },
+  {
+    "id": 3,
+    "name": "sdfg",
+    "email": "asdfg@gmail.com",
+    "password": "dfgh56",
+    "age": "4"
+  },
+  {
+    "id": 4,
+    "name": "dfghnm",
+    "email": "sdfghjk@gmail.com",
+    "password": "bcfgxghcs",
+    "age": "464"
+  },
+  {
+    "id": 5,
+    "name": "hvxhsvxys",
+    "email": "svxygxy@gmail.com",
+    "password": "55",
+    "age": "454"
+  },
+  {
+    "id": 6,
+    "name": "yvubhnijmk",
+    "email": "ghj678@gmail.com",
+    "password": "erty23456",
+    "age": "5"
+  }
+]
